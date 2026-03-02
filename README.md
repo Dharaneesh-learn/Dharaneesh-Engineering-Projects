@@ -47,7 +47,7 @@ Flutter-based Android application for nutrition analysis and food expiry trackin
 ---
 
 ## Technical Skills
-Python • MATLAB • Reinforcement Learning • CFD • Aircraft Design • Control Systems • XFOIL • XFLR5 • Fusion 360
+• MATLAB • Reinforcement Learning • CFD • Aircraft Design •Fusion 360 • XFOIL • XFLR5 • Python
 
 ---
 
