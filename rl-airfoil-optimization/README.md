@@ -3,7 +3,7 @@
 ## Overview
 This project explores the use of reinforcement learning to improve aerodynamic performance of airfoil geometries using CST parameterization and automated aerodynamic evaluation.
 
-The objective was to investigate the effect of sensitivity guided model in aerodynamic improvement of airfoil in comparision with conventional equal weights model.
+The objective was to investigate the effect of sensitivity guided model in aerodynamic improvement of airfoil in comparision with conventional model.
 
 ---
 
@@ -39,17 +39,17 @@ Baseline Cl/Cd ≈ **25.55**
 ## Example Results
 
 ### Training Behaviour
-![Training Curve]("rl_train_git.pngg")
+![Training Curve]("rl_train_git.png")
 - cl/cd vs episode curve shows the aerodynamic performance improvement as training iteration progressed
 
 ### Airfoil Evolution
-![Airfoil Comparison]("rl_train_git.png")
+![Airfoil Comparison]("Progressive_airfoil_rl_git.png")
 - Note : The images provided are just samples obtained during training.
 - There are multiple airfoil shapes that achieve the same Aerodynamic performance parameter
 ---
 
 ## Tools
-Python • XFOIL • Reinforcement Learning Framework
+Python • Open-source aerodynamic solver • Reinforcement Learning Framework
 
 ---
 
