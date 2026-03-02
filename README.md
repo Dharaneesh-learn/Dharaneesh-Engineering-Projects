@@ -54,7 +54,7 @@ Flutter-based Android application for nutrition analysis and food expiry trackin
 ## Research Interests
 Machine Learning for Aerospace  
 Aerodynamic Optimization  
-Aircraft Design
+Aircraft Design  
 Self-use applications
 
 ---
