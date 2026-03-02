@@ -14,7 +14,7 @@ Aerospace Engineering student working at the intersection of aerodynamics, machi
 
 ## Most Difficult Problem I Solved
 
-I developed a reinforcement learning framework to autonomously improve aerodynamic performance for airfoil geometry using CST parameterization and XFOIL aerodynamic evaluation.
+I developed a reinforcement learning framework to autonomously improve aerodynamic performance for airfoil geometry using CST parameterization and open-source aerdynamic solver aerodynamic evaluation.
 
 The main difficulty was that aerodynamic evaluations were noisy and frequently produced non physical results, causing reinforcement learning instability. The problem required balancing exploration in a 12-dimensional continuous design space while maintaining geometric validity.
 
@@ -27,7 +27,7 @@ To address this, I designed sensitivity guided exploration weights and a multi l
 ### Reinforcement Learning Airfoil Optimization
 Interpretable RL framework for aerodynamic shape optimization using CST parameterization and PPO.
 - Adaptive sensitivity-based exploration strategy
-- XFOIL–Python-CST automated evaluation pipeline
+- Aerodynamic solver–Python-CST automated evaluation pipeline
 - 42% faster early exploration for adaptive model compared to conventional equal weights model
 
 ### Hydrogen Fuel Cell–Battery Hybrid UAV
@@ -43,11 +43,13 @@ Designed, fabricated, and flight-tested a high aspect ratio glider achieving 65 
 Flutter-based Android application for nutrition analysis and food expiry tracking tailored for Indian diet.
 - Nutrition analysis module with RDI recommendation to analyse dietary intake and provide nutrional food recommendation 
 - Expiry tracker module with automated expiry notification alert users of approaching food expiration to reduce health risk and food waste 
- 
+
+ *(Some details intentionally omitted as work is under ongoing research development.)*
+
 ---
 
 ## Technical Skills
-• MATLAB • Reinforcement Learning • CFD • Aircraft Design •Fusion 360 • XFOIL • XFLR5 • Python
+• MATLAB • Reinforcement Learning • CFD • Aircraft Design •Fusion 360 • Aerodynamic solver • XFLR5 • Python
 
 ---
 
