@@ -1,14 +1,14 @@
 # Hydrogen Fuel Cell–Battery Hybrid UAV
 
 ## Overview
-Conceptual design and analysis of a 6 kg hydrogen fuel cell–battery hybrid fixed-wing UAV focused on endurance improvement and stable flight performance.
+Conceptual design and analysis of a small hydrogen fuel cell–battery hybrid fixed-wing UAV focused on endurance improvement and stable flight performance.
 
 The objective was to investigate the feasibility of integrating commercially available hydrogen fuel cell systems into a small UAV platform while ensuring aerodynamic stability and manufacturability.
 
 ---
 
 ## Problem
-Battery-powered UAVs in the 5–7 kg class are typically endurance-limited. 
+Battery-powered UAVs in the small uav class are typically endurance-limited. 
 
 The challenge was to:
 - Integrate a hydrogen fuel cell system within strict mass constraints
@@ -30,7 +30,7 @@ The challenge was to:
 
 ## Key Outcomes
 
-- Designed a 6 kg hybrid UAV platform using commercially available components
+- Designed a small hybrid UAV platform using commercially available components
 - Completed stability and CG analysis ensuring safe static margin
 - Developed preliminary hydrogen fuel cell integration model
 
