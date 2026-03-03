@@ -14,7 +14,7 @@ Aerospace Engineering student working at the intersection of aerodynamics, machi
 
 ## Projects
 
-### ShelfMate Smart Food System
+### ShelfMate: Smart Food System
 Flutter-based Android application for nutrition analysis and food expiry tracking tailored for Indian diet
 - Nutrition analysis module with RDI recommendation to analyse dietary intake and provide nutrional food recommendation 
 - Expiry tracker module with automated expiry notification alert users of approaching food expiration to reduce health risk and food waste.  
