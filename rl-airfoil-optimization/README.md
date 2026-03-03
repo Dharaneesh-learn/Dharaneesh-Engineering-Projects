@@ -39,11 +39,11 @@ Baseline Cl/Cd ≈ **25.55**
 ## Example Results
 
 ## Training Behaviour
-![Training Curve](rl_train_git.png)
+![Training Curve](screenshots/rl_train_git.png)
 - cl/cd vs episode curve shows the aerodynamic performance improvement as training iteration progressed
 
 ### Airfoil Evolution
-![Airfoil Comparison](Progressive_airfoil_rl_git.png)
+![Airfoil Comparison](screenshots/Progressive_airfoil_rl_git.png)
 - Note : The images provided are just samples obtained during multiple training sessions.
 - There are multiple airfoil shapes that achieve the same Aerodynamic performance parameter.
 ---
