@@ -1,9 +1,9 @@
 # Reinforcement Learning for Airfoil Optimization
 
 ## Overview
-This project explores the use of reinforcement learning to improve aerodynamic performance of airfoil geometries using CST parameterization and automated aerodynamic evaluation.
+This project explores the use of reinforcement learning to improve aerodynamic performance of airfoil geometries using parametric airfoil representation and automated aerodynamic evaluation.
 
-The objective was to investigate the effect of sensitivity guided model in aerodynamic improvement of airfoil in comparision with conventional model.
+The objective was to investigate the effect of adaptive model in aerodynamic improvement of airfoil in comparision with conventional model.
 
 ---
 
@@ -15,7 +15,7 @@ The challenge was to enable stable learning in a continuous aerodynamic design s
 ---
 
 ## Approach (High-Level)
-- Airfoil geometry represented using CST parameters
+- Airfoil geometry represented using parametric airfoil representation
 - Automated aerodynamic evaluation pipeline
 - Reinforcement learning based iterative optimization
 
@@ -32,7 +32,7 @@ Baseline Cl/Cd ≈ **25.55**
 ### Optimized Performance
 - Significant aerodynamic efficiency improvement
 - Stable geometry evolution during training
-- **42% faster early exploration compared to equal-weight strategy**
+- **42% faster early exploration compared to conventional strategy**
 
 ---
 
