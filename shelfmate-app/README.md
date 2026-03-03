@@ -3,7 +3,7 @@
 ShelfMate is a Flutter-based Android application designed to help users track nutrition intake and manage food expiry efficiently.
 
 **Background**
-- "This started as a personal-use hobby project, but I've decided to open-source it—hope someone else finds it useful!"
+- "This started as a personal-use hobby project, but I've decided to open-source it; hope someone else finds it useful!"
 ---
 
 ## Features
