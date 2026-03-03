@@ -36,7 +36,8 @@ Flutter • Dart • Android SDK
 
 ## Screenshots
 ![Home Screen](screenshots/ShelfMate_home.jpeg)
-![Nutrition Module]()
+![Nutrition Module](screenshots/ShelfMate_nutrition_tracker.jpeg)
+![Expiry Module](screenshots/ShelfMate_expiry_tracker.jpeg)
 
 ---
 
