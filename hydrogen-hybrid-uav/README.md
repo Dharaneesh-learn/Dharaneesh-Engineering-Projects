@@ -33,7 +33,6 @@ The challenge was to:
 - Designed a 6 kg hybrid UAV platform using commercially available components
 - Completed stability and CG analysis ensuring safe static margin
 - Developed preliminary hydrogen fuel cell integration model
-- Demonstrated endurance improvement potential over conventional battery UAV
 
 ---
 
