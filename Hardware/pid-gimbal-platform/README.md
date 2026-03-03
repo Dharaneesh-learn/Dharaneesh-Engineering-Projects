@@ -20,4 +20,5 @@ To achieve disturbance rejection and stable orientation tracking.
 Achieved stable platform behavior under induced disturbances.
 
 ## Demonstration
-<img src="Glider.jpeg" width="500" alt="Home Screen">
+**Gimbal**
+<img src="Gimbal.jpeg" width="500" alt="Home Screen">
