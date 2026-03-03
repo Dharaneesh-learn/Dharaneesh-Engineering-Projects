@@ -30,6 +30,7 @@ Flutter • Dart • Android SDK
 - Modular nutrition calculation engine
 - Local data storage for food inventory
 - Notification scheduling system
+- Completely offline
 
 ---
 
