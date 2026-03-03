@@ -14,20 +14,20 @@ Aerospace Engineering student working at the intersection of aerodynamics, machi
 
 ## Most Difficult Problem I Solved
 
-I developed a reinforcement learning framework to autonomously improve aerodynamic performance for airfoil geometry using CST parameterization and open-source aerdynamic solver aerodynamic evaluation.
+I developed a reinforcement learning framework to autonomously improve aerodynamic performance for airfoil geometry using a parameterization technique and open-source aerdynamic solver aerodynamic evaluation.
 
-The main difficulty was that aerodynamic evaluations were noisy and frequently produced non physical results, causing reinforcement learning instability. The problem required balancing exploration in a 12-dimensional continuous design space while maintaining geometric validity.
+The main difficulty was that aerodynamic evaluations were noisy and frequently produced non physical results, causing reinforcement learning instability. The problem required balancing exploration in a high-dimensional continuous design space while maintaining geometric validity.
 
-To address this, I designed sensitivity guided exploration weights and a multi layer artifact detection system that penalized solver failures and unrealistic aerodynamic outputs. This improved training stability and enabled consistent aerodynamic improvement from a baseline Cl/Cd of 25.55 (NACA 0012) to values above 60, with 42% faster early exploration (training) time.
+To address this, I designed a adaptive model with a multi layer artifact detection system that penalized solver failures and unrealistic aerodynamic outputs. This improved training stability and enabled consistent aerodynamic improvement from a baseline Cl/Cd of 25.55 (NACA 0012) to values above 60, with 42% faster early exploration (training) time.
 
 ---
 
 ## Projects
 
 ### Reinforcement Learning Airfoil Optimization
-Interpretable RL framework for aerodynamic shape optimization using CST parameterization and PPO.
-- Adaptive sensitivity-based exploration strategy
-- Aerodynamic solver–Python-CST automated evaluation pipeline
+Interpretable RL framework for aerodynamic shape optimization using a airfoil parameterization technique.
+- Adaptive exploration strategy
+- Aerodynamic solver–Python-parametrzation technique automated evaluation pipeline
 - 42% faster early exploration for adaptive model compared to conventional equal weights model
 
 ### Hydrogen Fuel Cell–Battery Hybrid UAV
