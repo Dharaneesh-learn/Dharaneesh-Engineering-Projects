@@ -18,7 +18,7 @@ Aerospace Engineering student working at the intersection of aerodynamics, machi
 -Research project exploring learning-based aerodynamic shape improvement in a parametric design space.
 Quantitative results available upon request due to ongoing publication considerations.  
 ### Hydrogen Fuel Cell–Battery Hybrid UAV
--System-level design and stability analysis of a small class hybrid propulsion UAV platform.
+-System level design and stability analysis of a small class hybrid propulsion UAV platform.
 Performance results available upon request due to ongoing publication considerations.
 ### ShelfMate: Smart Food System
 Flutter-based Android application for nutrition analysis and food expiry tracking tailored for Indian diet
