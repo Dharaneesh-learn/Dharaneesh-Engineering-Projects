@@ -18,3 +18,6 @@ To achieve disturbance rejection and stable orientation tracking.
   
 ## Outcome
 Achieved stable platform behavior under induced disturbances.
+
+## Demonstration
+
