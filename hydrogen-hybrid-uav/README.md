@@ -5,7 +5,6 @@ Conceptual design and analysis of a 6 kg hydrogen fuel cell–battery hybrid fix
 
 The objective was to investigate the feasibility of integrating commercially available hydrogen fuel cell systems into a small UAV platform while ensuring aerodynamic stability and manufacturability.
 
-**Results to be published in future release**
 ---
 
 ## Problem
@@ -34,6 +33,8 @@ The challenge was to:
 - Designed a 6 kg hybrid UAV platform using commercially available components
 - Completed stability and CG analysis ensuring safe static margin
 - Developed preliminary hydrogen fuel cell integration model
+
+**Results to be published in future release**
 
 ---
 
