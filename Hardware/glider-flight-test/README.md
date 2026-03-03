@@ -17,4 +17,4 @@ Design, fabrication, and testing of a high aspect-ratio glider optimized for gli
 Demonstrated long glide distance with stable glide behavior during testing.
 
 ## Demonstration
-<img src="Glider.jpeg" width="300" alt="Home Screen">
+<img src="Glider.jpeg" width="500" alt="Home Screen">
