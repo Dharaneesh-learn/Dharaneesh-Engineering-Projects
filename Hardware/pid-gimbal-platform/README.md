@@ -24,7 +24,7 @@ Achieved stable platform behavior under induced disturbances.
 <img src="media/Gimbal.jpeg" width="250" alt="Home Screen">
 
 **Gimbal stabilisation (Click to play)**  
-<img src="media/gimbal_demo_stabilisation.gif" width="400" alt="Gimbal Demo">
+<img src="media/gimbal_demo_stabilisation.gif" width="400">
 
 **Matlab visualisation (Click to play)**  
-<img src="media/gimbal_matlab_visualisation.gif" width="300" alt="Gimbal Demo 1">
+<img src="media/gimbal_matlab_visualisation.gif" width="300">
