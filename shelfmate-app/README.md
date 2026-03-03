@@ -35,10 +35,14 @@ Flutter • Dart • Android SDK
 ---
 
 ## Screenshots
-![Home Screen](screenshots/ShelfMate_home.jpeg)
-![Nutrition Module](screenshots/ShelfMate_nutrition_tracker.jpeg)
-![Expiry Module](screenshots/ShelfMate_expiry_tracker.jpeg)
+### Home Screen
+<img src="screenshots/ShelfMate_home.jpeg" width="600" alt="Home Screen">
 
+### Nutrition Module
+<img src="screenshots/ShelfMate_nutrition_tracker.jpeg" width="600" alt="Nutrition Tracker">
+
+### Expiry Module
+<img src="screenshots/ShelfMate_expiry_tracker.jpeg" width="600" alt="Expiry Tracker">
 ---
 
 ## Status
