@@ -14,19 +14,19 @@ Aerospace Engineering student working at the intersection of aerodynamics, machi
 
 ## Projects
 
-### Reinforcement Learning Airfoil Optimization
--Proprietary  
-### Hydrogen Fuel Cell–Battery Hybrid UAV
--Proprietary  
-### Flight-Tested Glider
-Designed, fabricated, and flight-tested a high aspect ratio glider achieving 65 ft glide distance from 6ft launch height.   
-### PID Stabilized Gimbal
-2-axis (pitch and roll) stabilization platform with real-time MATLAB visualization using PID control.
-
 ### ShelfMate Smart Food System
-Flutter-based Android application for nutrition analysis and food expiry tracking tailored for Indian diet.
+Flutter-based Android application for nutrition analysis and food expiry tracking tailored for Indian diet
 - Nutrition analysis module with RDI recommendation to analyse dietary intake and provide nutrional food recommendation 
-- Expiry tracker module with automated expiry notification alert users of approaching food expiration to reduce health risk and food waste 
+- Expiry tracker module with automated expiry notification alert users of approaching food expiration to reduce health risk and food waste.  
+### PID Stabilized Gimbal
+2-axis (pitch and roll) stabilization platform with real-time MATLAB visualization using PID control.  
+### Flight-Tested Glider
+Designed, fabricated, and flight-tested a high aspect ratio glider achieving 65 ft glide distance from 6ft launch height.  
+### Reinforcement Learning Airfoil Optimization
+-Implementation details reserved for future publication.  
+### Hydrogen Fuel Cell–Battery Hybrid UAV
+-Implementation details reserved for future publication.
+
 
 ---
  *(Some details intentionally omitted as work is under ongoing research development.)*  
