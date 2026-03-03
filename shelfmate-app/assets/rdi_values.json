@@ -1,0 +1,21 @@
+{
+  "adults_average": {
+    "calories": 2000,
+    "protein": 60,
+    "carbs": 275,
+    "fat": 67,
+    "calcium": 1000,
+    "iron": 17,
+    "fiber": 30,
+    "zinc": 12,
+    "vitaminA": 600,
+    "vitaminC": 40,
+    "vitaminD": 10,
+    "folate": 200,
+    "vitaminB1": 1.2,
+    "vitaminB2": 1.3,
+    "vitaminB3": 16,
+    "vitaminB6": 1.3,
+    "vitaminB9": 200
+  }
+}
