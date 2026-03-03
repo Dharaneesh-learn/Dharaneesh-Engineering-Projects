@@ -21,4 +21,6 @@ Achieved stable platform behavior under induced disturbances.
 
 ## Demonstration
 **Gimbal**  
-<img src="media/Gimbal.jpeg" width="300" alt="Home Screen">
+<img src="media/Gimbal.jpeg" width="250" alt="Home Screen">
+**Gimbal stabilisation**
+<img src="media/gimbal_demo_stabilisation.gif" width="250" alt="Home Screen">
